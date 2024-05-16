@@ -19,7 +19,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-333333?style=flat&logo=Thymeleaf&logoColor=green)
-- 🛢 &nbsp;
+- 🛢  &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Hibernate](https://img.shields.io/badge/Hibernate-333333?style=flat&logo=Hibernate&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-333333?style=flat&logo=apache-tomcat&logoColor=white)
