@@ -37,7 +37,7 @@
 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333?style=flat&logo=intellij-idea&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333?style=flat&logo=intellij-idea)
   ![Vim](https://img.shields.io/badge/VIM-333333?style=flat&logo=vim&logoColor=white)
 
 <h3> 📈 &nbsp;GitHub Stats</h3>
