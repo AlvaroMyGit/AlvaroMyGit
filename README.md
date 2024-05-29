@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/-Álvaro%20Mendes-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alvaro.afp.mendes@gmail.com">
-  <img src="https://img.shields.io/badge/alvaro.afp.mendes@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
  <a href="https://discord.com/users/195011052805554179">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
