@@ -53,7 +53,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alvaro-afp-mendes/">
-    <img src="https://img.shields.io/badge/-Álvaro%20Mendes-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:alvaro.afp.mendes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
