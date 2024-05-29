@@ -4,7 +4,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Recently graduated from a Full-Stack Developer Bootcamp.
+- 🎓 &nbsp; Freshly dipped my toes into the vast world of coding, and I'm already hooked!
 - 🚀 &nbsp; Passionate about exploring and learning new technologies.
 - ☕ &nbsp; Dedicated to building software solutions to tech problems.
 - 🌱 &nbsp; Currently learning: AWS re/Start, Selenium WebDriver.
@@ -25,10 +25,11 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 - 🛢 &nbsp;
+  &nbsp;![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-333333?style=flat&logo=apache-tomcat&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Hibernate](https://img.shields.io/badge/Hibernate-333333?style=flat&logo=Hibernate&logoColor=white)
-  ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-333333?style=flat&logo=apache-tomcat&logoColor=white)
+  
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -41,22 +42,28 @@
 
 <h3> 📈 &nbsp;GitHub Stats</h3>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroMyGit&show_icons=true&theme=radical" alt="Álvaro's GitHub Stats" style="width: 49%;"/>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMyGit&layout=compact&theme=radical" alt="Álvaro's Top Languages" style="width: 44%;"/>
 </div>
 
 
 
 
-<!---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alvaro-afp-mendes/"><img src="https://img.shields.io/badge/-Álvaro%20Mendes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href=
-</p>
+  <a href="https://www.linkedin.com/in/alvaro-afp-mendes/">
+    <img src="https://img.shields.io/badge/-Álvaro%20Mendes-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alvaro.afp.mendes@gmail.com">
+  <img src="https://img.shields.io/badge/alvaro.afp.mendes@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+ <a href="https://discord.com/users/195011052805554179">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+</a>
 
+
+<!---
 AlvaroMyGit/AlvaroMyGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
