@@ -47,6 +47,8 @@
 </div>
 
 
+
+
 <!---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -54,7 +56,6 @@
   <a href="https://www.linkedin.com/in/alvaro-afp-mendes/"><img src="https://img.shields.io/badge/-Álvaro%20Mendes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href=
 </p>
-
 
 AlvaroMyGit/AlvaroMyGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
