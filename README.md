@@ -16,13 +16,13 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=yellow)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
  - 🧰 &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-333333?style=flat&logo=Thymeleaf&logoColor=green)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 
 - 🛢 &nbsp;
   &nbsp;![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-333333?style=flat&logo=apache-tomcat&logoColor=white)
