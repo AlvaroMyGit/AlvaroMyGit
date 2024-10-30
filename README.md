@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Freshly dipped my toes into the vast world of coding, and I'm already hooked!
 - 🚀 &nbsp; Passionate about exploring and learning new technologies.
 - ☕ &nbsp; Dedicated to building software solutions to tech problems.
-- 🌱 &nbsp; Currently learning: AWS re/Start, Selenium WebDriver.
+- 🌱 &nbsp; Currently learning: Delving deeper into Cloud Computing and Unit Testing!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
